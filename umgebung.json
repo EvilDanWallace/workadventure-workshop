@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/mystery.json"
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/EvilDanWallace\/workadventure-workshop\/main\/mystery.json"
                 }],
          "type":"tilelayer",
          "visible":true,
