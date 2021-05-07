@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":12,
  "infinite":false,
  "layers":[
@@ -26,6 +33,12 @@
          "id":8,
          "name":"Ausgang zu Innenb\u00fchne",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock 2021\/innenbuehne.json#start_kueche"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
