@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/zahlen-sender.de\/"
+                 "value":"https:\/\/zahlen-sender.de\/podlove-media\/Zahlensender-000.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
