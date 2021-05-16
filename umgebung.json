@@ -141,6 +141,12 @@
          "id":24,
          "name":"exit_sterne",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/shiller79\/workadventure-workshop\/main\/sterne.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
