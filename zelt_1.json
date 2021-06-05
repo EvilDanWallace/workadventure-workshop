@@ -28,24 +28,6 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 39, 0, 0, 0, 0],
-         "height":10,
-         "id":9,
-         "name":"exit_aussenbereich",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich.json#start_zelt_1"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":7,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[417, 425, 426, 426, 426, 427, 419, 419, 433, 434, 434, 434, 435, 420, 419, 441, 442, 442, 442, 443, 420, 419, 39, 39, 39, 39, 39, 420, 419, 39, 39, 39, 39, 39, 420, 419, 39, 39, 39, 39, 39, 420, 419, 39, 39, 39, 39, 39, 420, 428, 39, 39, 39, 39, 39, 428, 436, 39, 39, 39, 39, 39, 436, 444, 39, 39, 39, 39, 39, 444],
          "height":10,
          "id":3,
@@ -110,6 +92,24 @@
          "id":7,
          "name":"zeug_\u00fcber_figur_oben",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":7,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 366, 366, 0, 0, 0, 0],
+         "height":10,
+         "id":9,
+         "name":"exit_aussenbereich",
+         "opacity":0.2,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich.json#start_zelt_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":7,

@@ -28,24 +28,6 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 39, 0, 0, 0, 0],
-         "height":10,
-         "id":9,
-         "name":"exit_aussenbereich",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich.json#start_zelt"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":7,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[481, 490, 490, 490, 490, 490, 483, 484, 497, 498, 498, 498, 499, 484, 484, 505, 506, 506, 506, 507, 484, 484, 382, 382, 382, 382, 382, 484, 484, 382, 382, 382, 382, 382, 484, 484, 382, 382, 382, 382, 382, 484, 484, 382, 382, 382, 382, 382, 484, 492, 382, 382, 382, 382, 382, 492, 500, 382, 382, 382, 382, 382, 500, 508, 382, 382, 382, 382, 382, 508],
          "height":10,
          "id":3,
@@ -110,6 +92,24 @@
          "id":7,
          "name":"zeug_\u00fcber_figur_oben",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":7,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 366, 366, 0, 0, 0, 0],
+         "height":10,
+         "id":9,
+         "name":"exit_aussenbereich",
+         "opacity":0.4,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich.json#start_zelt"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":7,
