@@ -46,24 +46,6 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 397, 397, 397, 0, 0, 0, 0],
-         "height":8,
-         "id":10,
-         "name":"exit_aussenbereich",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/EvilDanWallace\/workadventure-workshop\/main\/umgebung.json#start_mystery"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":8,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 358, 358, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":8,
          "id":3,
@@ -146,6 +128,24 @@
          "id":6,
          "name":"Zeug \u00fcber Figur oben",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 366, 366, 366, 0, 0, 0, 0],
+         "height":8,
+         "id":10,
+         "name":"exit_aussenbereich",
+         "opacity":0.36,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/EvilDanWallace\/workadventure-workshop\/main\/umgebung.json#start_mystery"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":8,
