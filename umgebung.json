@@ -447,7 +447,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -475,7 +475,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -503,7 +503,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -531,7 +531,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -559,7 +559,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -587,7 +587,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -615,7 +615,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Gedenktafel anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -643,7 +643,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Aushang anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -671,7 +671,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -699,7 +699,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -727,7 +727,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Hinweis anzusehen"
+                 "value":"LEERTASTE um Grabstein anzusehen"
                 }],
          "type":"tilelayer",
          "visible":true,
