@@ -409,7 +409,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com"
+                 "value":"https:\/\/mein.podstock.de\/page\/walled-garten"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -745,7 +745,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":" https:\/\/mein.podstock.de\/page\/xyz"
+                 "value":"https:\/\/mein.podstock.de\/page\/synths"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
