@@ -633,7 +633,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com"
+                 "value":"https:\/\/mein.podstock.de\/page\/podcast-friedhof "
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -773,7 +773,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com"
+                 "value":"https:\/\/mein.podstock.de\/page\/bibliothek"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
