@@ -661,7 +661,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com"
+                 "value":"https:\/\/mein.podstock.de\/page\/grabstein-h3"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -689,7 +689,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com"
+                 "value":"https:\/\/mein.podstock.de\/page\/grabstein-h2"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -717,7 +717,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com"
+                 "value":"https:\/\/mein.podstock.de\/page\/grabstein-h1"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
