@@ -129,7 +129,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um das Flachwitz Repository auf GitHub anzusehen."
+                 "value":"LEERTASTE um zu erfahren, was das hier f\u00fcr ein Ort ist."
                 }],
          "type":"tilelayer",
          "visible":true,
