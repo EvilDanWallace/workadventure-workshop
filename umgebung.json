@@ -389,9 +389,19 @@
          "opacity":0.43,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cytu.be\/r\/DANce-Partay"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um CyTube zu \u00f6ffnen und gemeinsam Musikvideos zu schauen."
                 }],
          "type":"tilelayer",
          "visible":true,
