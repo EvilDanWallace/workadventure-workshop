@@ -224,7 +224,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/evildanwallace\/EvilDanWallace\/workadventure-workshop\/main\/StallKeller.json"
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/evildanwallace\/workadventure-workshop\/main\/StallKeller.json"
                 }],
          "type":"tilelayer",
          "visible":true,
