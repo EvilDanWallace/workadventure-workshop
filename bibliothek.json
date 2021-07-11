@@ -85,6 +85,22 @@
          "id":13,
          "name":"verkuekt10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/mein.podstock.de\/page\/serghl"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um das K\u00fckenbild anzusehen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":13,
