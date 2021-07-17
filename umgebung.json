@@ -1193,7 +1193,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Oh nein! Die Podzecke! LEERTASTE mehr \u00fcber die kleine Plage zu erfahren."
+                 "value":"Oh nein! Die Podzecke! LEERTASTE um mehr \u00fcber die kleine Plage zu erfahren."
                 }],
          "type":"tilelayer",
          "visible":true,
