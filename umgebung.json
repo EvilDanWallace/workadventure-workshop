@@ -12576,19 +12576,6 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":5,
-         "firstgid":2800,
-         "image":"Wegmarkierung.png",
-         "imageheight":160,
-         "imagewidth":160,
-         "margin":0,
-         "name":"Wegmarkierung",
-         "spacing":0,
-         "tilecount":25,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
