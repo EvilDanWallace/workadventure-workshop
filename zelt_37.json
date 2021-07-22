@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich.json#start_zelt"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/aussenbereich.json#start_zelt_37"
                 }],
          "type":"tilelayer",
          "visible":true,
