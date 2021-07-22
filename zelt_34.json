@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/aussenbereich.json#start_zelt_34"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/aussenbereich2.json#start_zelt_34"
                 }],
          "type":"tilelayer",
          "visible":true,
