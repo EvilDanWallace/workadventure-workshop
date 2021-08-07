@@ -495,7 +495,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/cdn.podseed.org\/einschlafen\/ep0487.mp3"
+                 "value":"https:\/\/mein.podstock.de\/storage\/pages\/X1lVJ1XjjyOChXMLbKBXufBzlelJgtN1PYfi9vac.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
