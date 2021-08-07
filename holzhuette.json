@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/geschichtenkapsel.de\/"
+                 "value":"https:\/\/mein.podstock.de\/page\/die-geschichtenkapsel"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -191,7 +191,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um Schild zu lesen."
+                 "value":"LEERTASTE um ins Buch zu schauen..."
                 }],
          "type":"tilelayer",
          "visible":true,
