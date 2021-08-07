@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\n\nhttps:\/\/mein.podstock.de\/page\/podstock-2024 "
+                 "value":"https:\/\/mein.podstock.de\/page\/podstock-2024 "
                 }, 
                 {
                  "name":"openWebsiteTrigger",
