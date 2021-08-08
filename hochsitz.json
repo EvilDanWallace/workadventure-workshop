@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/raw.githubusercontent.com\/EvilDanWallace\/workadventure-workshop\/main\/umgebung.json#start_hochsitz"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/umgebung.json#start_hochsitz"
                 }],
          "type":"tilelayer",
          "visible":true,

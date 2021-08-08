@@ -453,7 +453,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich.json#start_weg"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/aussenbereich.json#start_weg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1540,7 +1540,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/raw.githubusercontent.com\/EvilDanWallace\/workadventure-workshop\/main\/hochsitz.json"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/hochsitz.json"
                 }],
          "type":"tilelayer",
          "visible":true,
