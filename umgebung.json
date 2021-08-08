@@ -1540,7 +1540,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/main\/hochsitz.json"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/extras\/hochsitz.json"
                 }],
          "type":"tilelayer",
          "visible":true,
