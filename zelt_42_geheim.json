@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/raw.githubusercontent.com\/trueblunt\/workadventure-workshop\/main\/Podstock%202021\/aussenbereich2.json#start_zelt_42"
+                 "value":"https:\/\/play.wa.podstock.de\/_\/global\/maps.wa.podstock.de\/extras\/zelt_42.json#start_NLG"
                 }],
          "type":"tilelayer",
          "visible":true,
