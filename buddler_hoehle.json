@@ -49,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/graben.uber.space\/"
+                 "value":"https:\/\/mein.podstock.de\/page\/der-buddler"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -59,7 +59,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um mehr \u00fcber \"Angegraben\" zu erfahren..."
+                 "value":"LEERTASTE um mehr \u00fcber die Projekte des Buddlers zu erfahren..."
                 }],
          "type":"tilelayer",
          "visible":true,
