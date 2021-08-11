@@ -117,7 +117,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/mein.podstock.de\/storage\/pages\/CTlSgN5kzgtm7CUaS0tR4uPHOYVZybXjKOt5wJNG.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
