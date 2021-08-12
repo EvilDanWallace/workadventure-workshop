@@ -713,7 +713,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mein.podstock.de\/page\/metalrollz"
+                 "value":"https:\/\/mein.podstock.de\/page\/metalrollz_c"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -769,7 +769,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/mein.podstock.de\/storage\/pages\/HxLmmHntjlNPg5ZV7UMg5jfA9ikK8bGt25IeULQK.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

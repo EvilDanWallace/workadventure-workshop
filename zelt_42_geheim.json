@@ -93,6 +93,12 @@
          "id":20,
          "name":"audio_NSP",
          "opacity":0.3,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/mein.podstock.de\/storage\/pages\/cnkeetVYPx0o4amKuLiMlnToJ5IkC2AY1tt0sAWR.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
