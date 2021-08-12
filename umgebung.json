@@ -1535,7 +1535,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/einschlafen-podcast.de\/"
+                 "value":"https:\/\/mein.podstock.de\/page\/einschlafen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
