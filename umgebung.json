@@ -1507,7 +1507,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lotteserbinnen.de\/"
+                 "value":"https:\/\/mein.podstock.de\/page\/lottes-erbinnen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -1571,7 +1571,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/mein.podstock.de\/storage\/pages\/NFzTcegfywYFzquu2HsvHiwatc3Cmg1eiPPVcxHg.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
