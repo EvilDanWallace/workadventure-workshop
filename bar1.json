@@ -166,7 +166,7 @@
          "height":36,
          "id":15,
          "name":"web_schild_bienen",
-         "opacity":0.2,
+         "opacity":0.3,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -222,7 +222,7 @@
          "height":36,
          "id":26,
          "name":"web_fotos_essbereich",
-         "opacity":0.2,
+         "opacity":0.3,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -250,7 +250,7 @@
          "height":36,
          "id":27,
          "name":"web_fotos_Bernd_und_Pizza",
-         "opacity":0.2,
+         "opacity":0.3,
          "properties":[
                 {
                  "name":"openWebsite",
