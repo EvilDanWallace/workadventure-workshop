@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kohlenpod.de\/"
+                 "value":"https:\/\/mein.podstock.de\/page\/kohlenpod"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
