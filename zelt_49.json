@@ -43,7 +43,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/mein.podstock.de\/storage\/pages\/fhZmpuA1t65gFjgjPgMVNDypraujWE4D2za8g9Mx.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
