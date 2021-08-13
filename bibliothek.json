@@ -296,17 +296,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\n\nhttps:\/\/mein.podstock.de\/page\/fyydiverse "
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"LEERTASTE um mehr \u00fcber Wisspod zu erfahren..."
+                 "value":"https:\/\/mein.podstock.de\/page\/fyydiverse "
                 }],
          "type":"tilelayer",
          "visible":true,
