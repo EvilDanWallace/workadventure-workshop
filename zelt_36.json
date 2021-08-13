@@ -119,7 +119,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"awhttps:\/\/www.natuerlich-sh.de\/podlove\/file\/1\/s\/webplayer\/c\/episode\/NSH000.mp3"
+                 "value":"https:\/\/www.natuerlich-sh.de\/podlove\/file\/1\/s\/webplayer\/c\/episode\/NSH000.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
