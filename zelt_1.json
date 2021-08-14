@@ -75,6 +75,12 @@
          "id":11,
          "name":"audio_zelt",
          "opacity":0.2,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/cdn.podigee.com\/media\/podcast_17670_pdcstadventskalender_episode_168460_pak_0003_adventskalender_2020.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":7,
