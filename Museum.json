@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.exponiert.berlin\/"
+                 "value":"https:\/\/mein.podstock.de\/page\/exponiert"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
